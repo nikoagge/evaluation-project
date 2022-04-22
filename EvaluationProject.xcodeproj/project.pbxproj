@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		17494306281331D40076E76B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17494305281331D40076E76B /* AppDelegate.swift */; };
-		17494308281331D40076E76B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17494307281331D40076E76B /* SceneDelegate.swift */; };
 		1749430A281331D40076E76B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17494309281331D40076E76B /* ViewController.swift */; };
 		1749430D281331D40076E76B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1749430B281331D40076E76B /* Main.storyboard */; };
 		17494310281331D40076E76B /* EvaluationProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1749430E281331D40076E76B /* EvaluationProject.xcdatamodeld */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		17494302281331D40076E76B /* EvaluationProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EvaluationProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17494305281331D40076E76B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		17494307281331D40076E76B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		17494309281331D40076E76B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1749430C281331D40076E76B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1749430F281331D40076E76B /* EvaluationProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EvaluationProject.xcdatamodel; sourceTree = "<group>"; };
@@ -102,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				17494305281331D40076E76B /* AppDelegate.swift */,
-				17494307281331D40076E76B /* SceneDelegate.swift */,
 				17494309281331D40076E76B /* ViewController.swift */,
 				1749430B281331D40076E76B /* Main.storyboard */,
 				17494311281331D70076E76B /* Assets.xcassets */,
@@ -264,7 +261,6 @@
 				1749430A281331D40076E76B /* ViewController.swift in Sources */,
 				17494310281331D40076E76B /* EvaluationProject.xcdatamodeld in Sources */,
 				17494306281331D40076E76B /* AppDelegate.swift in Sources */,
-				17494308281331D40076E76B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
